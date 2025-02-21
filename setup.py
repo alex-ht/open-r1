@@ -55,7 +55,7 @@ _deps = [
     "isort>=5.12.0",
     "latex2sympy2_extended>=1.0.6",
     "liger_kernel==0.5.2",
-    "lighteval @ git+https://github.com/huggingface/lighteval.git@86f62259f105ae164f655e0b91c92a823a742724#egg=lighteval[math]",
+    "lighteval @ git+https://github.com/alex-ht/lighteval.git@5d83c951f66fcb1efb448a3d878989c6d7578b9f#egg=lighteval[math]",
     "math-verify==0.5.2",  # Used for math verification in grpo
     "packaging>=23.0",
     "parameterized>=0.9.0",
